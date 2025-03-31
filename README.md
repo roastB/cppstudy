@@ -4,8 +4,10 @@
 ## 📌 **지속적으로 [Github](https://github.com/roastB) 혹은 [Tistory Blog](https://roastb.tistory.com/)에 업로드!**
 
 ## 📂 파일 구조  
-- `studyX_topic.cpp` : 학습한 날의 주제를 반영한 C++ 코드  
-  - 예시: `study1_recursion.cpp` (1일 차, 재귀 함수 학습)  
+- `README.md` : 개인 공부 및 학습 내용에 대한 요약  
+- `cpp_basic/` : C++ 기본 문법과 개념에 대한 정리 및 예제
+- `setting_json` : Ubuntu 22.04에서 C++과 VScode 간의 기본 환경 설정
+- `studyX_topic.cpp` : 학습한 날의 주제를 반영한 C++ 코드 (예시: study1_recursion.cpp - 1일 차, 재귀 함수 학습)
 
 ## 📚 학습 내용  
 - **기본 문법**: 변수, 조건문, 반복문  
